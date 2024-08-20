@@ -16,6 +16,9 @@ Below is an overview of some of the topics I've thought about.
 
 # Particle tracking using Bayesian CNNs
 
+# Other thoughts
+
+[Thoughts on nonreciprocal forces](./_post/aug-19-24.html)
 
 
 
