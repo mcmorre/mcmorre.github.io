@@ -3,4 +3,5 @@ layout: default
 ---
 
 # About me
-hi!
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
