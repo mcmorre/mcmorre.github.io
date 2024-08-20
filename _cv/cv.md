@@ -6,8 +6,8 @@ address:
 Technical Skills
 
   ------------------------------- -----------------------------------------------------------------------------
-  **Programming & Software:  **   Experience with **Python, **TensorFlow, **C/C++ , **IDL, **Matlab**********
-                                  Github: <https://github.com/mcmorre>
+  **Programming & Software:**   Experience with **Python**, **PyTorch** ,**TensorFlow**, **C/C++**, **IDL**, **Matlab**
+                                  
   ------------------------------- -----------------------------------------------------------------------------
 :::
 
