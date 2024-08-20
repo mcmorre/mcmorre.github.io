@@ -18,7 +18,7 @@ Below is an overview of some of the topics I've thought about.
 
 # Other thoughts
 
-[Thoughts on nonreciprocal forces](./_post/aug-19-24.html)
+[Thoughts on nonreciprocal forces](./aug-19-24.html)
 
 
 
