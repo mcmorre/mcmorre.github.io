@@ -14,7 +14,7 @@ Below is an overview of some of the topics I've thought about.
 # The Dynamic Latent Variable Model
 
 
-# Particle tracking using Bayesian Convolutional Neural Networks
+# Particle tracking using Bayesian CNNs
 
 
 
