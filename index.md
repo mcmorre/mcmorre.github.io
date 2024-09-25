@@ -4,7 +4,7 @@ layout: default
 
 Hi! I'm a graduate student at NYU physics. I enjoy saying simple things about hard problems. But sometimes it's necessary to resort to the complicated answer!
 
-You can find my publications here and my CV [here](./_cv/cv.html).
+You can find my publications here and my CV [here](./cv.html).
 
 Below is an overview of some of the topics I've thought about.
 
