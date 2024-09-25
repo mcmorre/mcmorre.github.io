@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![Mia](./docs/assets/C86F7A80-08D0-49BC-9BDB-77E6B4833C65.jpeg)
 Hi! I'm a graduate student at NYU physics. I enjoy saying simple things about hard problems. But sometimes it's necessary to resort to the complicated answer!
 
 You can find my publications [here](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoXSqLiTMH4c-FjLktiIgAp_6KPM1j_hSbOuxuOfHWQoddZlfqSHF72m3EkA6DuyW7PUXVzvS3z1oMb-OAbEHYpF&user=ArLaWlsAAAAJ) and my CV [here](./cv.html).
