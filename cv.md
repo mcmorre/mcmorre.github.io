@@ -4,7 +4,9 @@ Contact: miamorrell321@gmail.com
 
                                   
 ***Education***
-  ------------------------------- -----------------------------------------------------------------------------
+
+  ------------------------------- 
+  
 **Ph.D. Candidate** *September 2021--Present*\
 *New York University, New York, NY*
 
@@ -13,7 +15,9 @@ Contact: miamorrell321@gmail.com
 *Summa cum laude in Physics*
 
 ***Research Positions***
-  ------------------------------- -----------------------------------------------------------------------------
+
+  ------------------------------- 
+  
 **Graduate Research Assistant: Center for Soft Matter Research** *May
 2022--Present*
 
@@ -41,7 +45,9 @@ Matter** *May 2017--December 2018*
     measuring mechanical properties of hydrogel.
 
 ***Publications***
-  ------------------------------- -----------------------------------------------------------------------------
+
+  ------------------------------- 
+  
 -   **Mia C. Morrell***, Ella M. King*, Jacqueline B. Sustiel, Matthew Gronert, Hayden Pastor, David G. Grier. Scattered waves fuel emergent activity. *Phys. Rev. X* (under review).
 -   **Mia C Morrell**, Ilya Nemenman, Audrey J Sederberg. Neural criticality from effective latent variables. *eLife* **12**, RP89337
     (2024).
@@ -73,7 +79,9 @@ Matter** *May 2017--December 2018*
     Rev. E* **96**, 062605 (2017).
 
 ***Presentations***
-  ------------------------------- -----------------------------------------------------------------------------
+
+  ------------------------------- 
+  
 -  **Acoustodynamic mass determination**. Minneapolis, MN, March 2024. *Talk, American Physical Society March Meeting.*
 -  **Granular dynamics in spectral acoustic holograms**. Las Vegas, NV, March 2023. *Talk, American Physical Society March Meeting.*
 -  **Latent fields lead to emergence of scaling in simulated neurons**. Online, March 2020. *Talk, American Physical Society March Meeting.*
@@ -86,7 +94,9 @@ Matter** *May 2017--December 2018*
 - **Soft particle clogging in 2D hoppers**. Georgia Institute of Technology, May 2017. *Talk, 10th Southeast Meeting on Soft Materials.*
 
 ***Fellowships and Awards***
-  ------------------------------- -----------------------------------------------------------------------------
+
+  ------------------------------- 
+  
 Burt and Betty Schear Book Award, Emory
 University *Spring 2020*\
 Attendee, Center for the Physics of Biological Function Summer School,
@@ -104,17 +114,22 @@ Dean's List, Emory University *Fall 2017, Spring 2018, Spring 2019, Fall
 
 ***Technical Skills***
 
-  ------------------------------- -----------------------------------------------------------------------------
+  ------------------------------- 
+  
   **Programming & Software:**   Experience with **Python**, **PyTorch** ,**TensorFlow**, **C/C++**, **Matlab**, **Mathematica**
   
 ***Teaching Experience***
-  ------------------------------- -----------------------------------------------------------------------------
+
+  ------------------------------- 
+  
   **Teaching Assistant: Undergraduate Electricity and Magnetism**. *Fall 2024*\
   **Teaching Assistant: Undergraduate General Physics II**. *Spring 2023*\
   **Teaching Assistant: Graduate Computational Physics**. *Fall 2023*
 
 ***Community Engagement***
-  ------------------------------- -----------------------------------------------------------------------------
+
+  ------------------------------- 
+  
 Co-Chair, Graduate Physics Organization for
 Research, Culture, and Education *2023--Present*\
 President, Society of Physics Students, Emory University *2019--2020*\
