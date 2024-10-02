@@ -3,20 +3,31 @@ layout: default
 ---
 ![Mia](./docs/assets/C86F7A80-08D0-49BC-9BDB-77E6B4833C65.jpeg)
 
-Hi! I'm a graduate student at NYU physics. I enjoy studying complex systems with a theoretical and computational tools. I'm especially interested in the dynamics of systems driven by external processes. During my exploration of complex systems, I have explained statistical signatures in large populations of neurons, and ... Read more about these projects below!
+Hi! I'm a graduate student at NYU physics. I enjoy studying complex systems with a theoretical and computational tools. 
+
+
+I'm especially interested in the dynamics of systems driven by external processes. So far, I have explained firing statistics in large populations of neurons and wave-mediated interparticle forces in optics and acoustics. 
+
 
 You can find my publications [here](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoXSqLiTMH4c-FjLktiIgAp_6KPM1j_hSbOuxuOfHWQoddZlfqSHF72m3EkA6DuyW7PUXVzvS3z1oMb-OAbEHYpF&user=ArLaWlsAAAAJ) and my CV [here](./cv.html).
 
 
-# Emergent activity
+# Wave-mediated forces
 
 
 # The Dynamic Latent Variable Model
+The Dynamic Latent Variable Model consists of ***N*** discrete units which have 2 states: 0 or 1. Each unit is driven by at least one of a collection of time-varying fields. 
 
 
-# Other thoughts
+In collaboration with Ilya Nemenman and Audrey Sederberg, I have used the Dynamic Latent Variable Model to demonstrate that signatures of statistical mechanical criticality observed experimentally in large populations of neurons originate ***solely*** from the existence of the many time-varying signals that drive the brain. 
 
-[Thoughts on nonreciprocal forces](./aug-19-24.html)
+Through groundbreaking techniques, experimentalists can now record thousands of neurons' activity simultaneously. Upon analysis of  correlated clusters of neurons, [Meshulam et al.](https://link.aps.org/doi/10.1103/PhysRevLett.123.178103) found that firing statistics scale as power laws of neural cluster size, a signature of criticality. Using our Dynamic Latent Variable Model, we explain that these power laws emerge in any sufficiently large system driven by time-varying processes [here](https://link.aps.org/doi/10.1103/PhysRevLett.126.118302). We match experimental power laws within error bars! 
+
+
+[Here](https://elifesciences.org/articles/89337), we show that the Dynamic Latent Variable Model can explain the avalanche, or crackling noise scaling observed in the acivity of large neural populations 
+
+
+
 
 
 
