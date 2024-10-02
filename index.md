@@ -16,7 +16,7 @@ You can find my publications [here](https://scholar.google.com/citations?hl=en&v
 
 
 # The Dynamic Latent Variable Model
-![DLVM](./docs/assets/lax_89337_elife-89337-fig1-v1.tif.jpeg)
+![DLVM](./docs/assets/lax_89337_elife-89337-fig1-v1.tif.jpg)
 
 
 The Dynamic Latent Variable Model consists of ***N*** discrete units which have 2 states: 0 or 1. Each unit is driven by at least one of a collection of time-varying fields. 
