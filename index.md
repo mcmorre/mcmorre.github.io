@@ -13,7 +13,7 @@ You can find my publications [here](https://scholar.google.com/citations?hl=en&v
 
 
 # Wave-mediated forces
-
+Sound waves and light waves can 
 
 # The Dynamic Latent Variable Model
 ![DLVM](./docs/assets/lax_89337_elife-89337-fig1-v1.tif.jpg)
@@ -27,10 +27,10 @@ In collaboration with Ilya Nemenman and Audrey Sederberg, I have used the Dynami
 Through groundbreaking techniques, experimentalists can now record thousands of neurons' activity simultaneously. Upon analysis of  correlated clusters of neurons, [Meshulam et al.](https://link.aps.org/doi/10.1103/PhysRevLett.123.178103) found that firing statistics scale as power laws of neural cluster size, a signature of criticality. Using our Dynamic Latent Variable Model, we explain that these power laws emerge in any sufficiently large system driven by time-varying processes [here](https://link.aps.org/doi/10.1103/PhysRevLett.126.118302). We match experimental power laws within error bars! 
 
 
-[Here](https://elifesciences.org/articles/89337), we show that the Dynamic Latent Variable Model can explain the avalanche, or crackling noise scaling observed in the acivity of large neural populations 
+[Here](https://elifesciences.org/articles/89337), we show that the Dynamic Latent Variable Model can explain the avalanche, or crackling noise scaling, observed in the acivity of large neural populations. We also show that crackling noise scaling is not associated with optimal information transmission. This finding contradicts the ``critical brain hypothesis'': the theory that the brain is poised at statistical mechanical criticality.
 
 
-
+In summary, we've found that statistical signatures associated with criticality emerge in the brain, but not for any deep reason.
 
 
 
