@@ -16,7 +16,7 @@ You can find my publications [here](https://scholar.google.com/citations?hl=en&v
 ![Mia](./docs/assets/ensembles.jpeg)
 Sound waves and light waves can exert forces on particles which scatter them. When the wavelength is greater than the scatterer radius, these forces can be strong enough to levitate particles against gravity. 
 
-Sound waves and light waves can also 
+Sound waves and light waves can also mediate interactions between particles. 
 
 # The Dynamic Latent Variable Model
 ![DLVM](./docs/assets/lax_89337_elife-89337-fig1-v1.tif.jpg)
