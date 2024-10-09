@@ -15,15 +15,15 @@ You can find my publications [here](https://scholar.google.com/citations?hl=en&v
 # Wave-mediated forces
 ![Mia](./docs/assets/cartoon_intro_v3.jpg)
 
-Waves can exert forces on particles which scatter them. When the wavelength is greater than the scatterer radius, these forces can be strong enough to levitate particles against gravity. I have used wave-mediated forces to [design novel mass and force measurement technologies](https://link.aps.org/doi/10.1103/PhysRevE.108.064903) and  
+Waves can exert forces on particles which scatter them. When the wavelength is greater than the scatterer radius, these forces can be strong enough to levitate particles against gravity. In collaboration with David Grier, I have used wave-mediated forces to [design novel mass and force measurement technologies](https://link.aps.org/doi/10.1103/PhysRevE.108.064903) and [develop new ways to transport matter using acoustic waves](https://link.aps.org/doi/10.1103/PhysRevE.109.044901).
 
-Sound waves and light waves can mediate interactions between particles, which emerge from the interference of their scattered waves. I have analytically calculated [novel interaction forces between nonidentical particles immersed in sound and light waves](https://arxiv.org/abs/2404.17410). These forces are nonreciprocal: the force on particle i due to particle j is not equal to the force on particle j due to particle i. 
+Sound waves and light waves can mediate interactions between particles, which emerge from the interference of their scattered waves. In collaboration with David Grier and Ella King, I have analytically calculated [novel interaction forces between nonidentical particles immersed in sound and light waves](https://arxiv.org/abs/2404.17410). These forces are nonreciprocal: the force on particle i due to particle j is not equal to the force on particle j due to particle i. 
 
 # Emergent activity
 ![Mia](./docs/assets/ensembles.jpeg)
 Active particles consume energy to power their motion, which can generate nonreciprocal interactions. When a predator runs towards prey, for example, there is an apparent nonreciprocal interaction between them: the predator is attracted to the prey, but the prey is repelled by the predator. 
 
-Nonreciprocal interactions can also emerge between inert particles when they interact with and modify an external field. I have named this class of active materials built from passive components [***emergent active matter***](https://arxiv.org/abs/2404.17410). Catalytic colloids, dusty plasmas, and wave-matter composites are examples of emergent active systems. While the particular nonreciprocal interactions in these systems may vary in sign and form, emergent active particles consume energy analogously. Unifying these disparate systems under one class is useful for further study of emergent active systems. 
+Nonreciprocal interactions can also emerge between inert particles when they interact with and modify an external field. David Grier, Ella King, and I have named this class of active materials built from passive components [***emergent active matter***](https://arxiv.org/abs/2404.17410). Catalytic colloids, dusty plasmas, and wave-matter composites are examples of emergent active systems. While the particular nonreciprocal interactions in these systems may vary in sign and form, emergent active particles consume energy analogously. Unifying these disparate systems under one class is useful for further study of emergent active systems. 
 
 Interestingly, emergent activity was available before the origin of biology. Water wave mediated forces therefore may have played a role in the origin of life. Perhaps life may still exploit water wave mediated forces to perform work on its environment! 
 
