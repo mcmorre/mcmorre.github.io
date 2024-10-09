@@ -13,6 +13,7 @@ You can find my publications [here](https://scholar.google.com/citations?hl=en&v
 
 
 # Wave-mediated forces
+![Mia](./docs/assets/cartoon_intro_v3.jpg)
 
 Waves can exert forces on particles which scatter them. When the wavelength is greater than the scatterer radius, these forces can be strong enough to levitate particles against gravity. I have used wave-mediated forces to [design novel mass and force measurement technologies](https://link.aps.org/doi/10.1103/PhysRevE.108.064903) and  
 
