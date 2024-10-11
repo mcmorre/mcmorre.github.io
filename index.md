@@ -3,7 +3,7 @@ layout: default
 ---
 ![Mia](./docs/assets/C86F7A80-08D0-49BC-9BDB-77E6B4833C65.jpeg)
 
-Hi! I'm a graduate student at NYU physics. I enjoy studying complex systems with a theoretical, computational, and experimental tools. 
+Hi! I'm a graduate student at NYU physics. I enjoy studying complex systems with theoretical, computational, and experimental tools. 
 
 
 I'm especially interested in the dynamics of systems driven by external processes. So far, I have explained firing statistics in large populations of neurons and wave-mediated interparticle forces in optics and acoustics. 
